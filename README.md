@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src=".github/preview.png" width="100%" />
+  <img src="[.github/preview.png](https://github.com/leovargasdev/youtube-site-mario/blob/master/.github/preview.png?raw=true)" width="100%" />
 </p>
 
 ## 💻 Projeto
