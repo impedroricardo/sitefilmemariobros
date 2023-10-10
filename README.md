@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="[.github/preview.png](https://github.com/leovargasdev/youtube-site-mario/blob/master/.github/preview.png?raw=true)" width="100%" />
+![image](https://github.com/impedroricardo/sitefilmemariobros/assets/101344966/547831de-519b-44ca-80ec-9b84d869fac4)
 </p>
 
 ## 💻 Projeto
