@@ -1,6 +1,7 @@
 @import url(/styles/background.css);
 @import url(/styles/header.css);
 @import url(/styles/main.css);
+@import url(/styles/button-mobile.css);
 
 
 * {
@@ -39,3 +40,9 @@ button:hover {
     height: 100vh;
     overflow: hidden;
 }
+
+@media(max-width: 500px) {
+    #app {
+      padding: 0 16px;
+    }
+  }
