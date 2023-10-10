@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-![image](https://github.com/impedroricardo/sitefilmemariobros/assets/101344966/547831de-519b-44ca-80ec-9b84d869fac4)
+<img src="preview.png" width="100%" />
 </p>
 
 ## 💻 Projeto
